@@ -1,0 +1,70 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  background:#404040;
+  /*text-align: center;*/
+}
+
+.card-footer {
+border-radius: 0 0 15px 15px 0 0 !important;
+border-top: 0 !important;
+}
+
+.send_btn{
+border-radius: 0 15px 15px 0 !important;
+background-color: rgba(92, 6, 81, 0.3) !important;
+border: 0 !important;
+color: white !important;
+cursor: pointer;
+}
+
+.msg_head{
+position: relative;
+}
+
+.txt{
+text-emphasis-color: #df67d1;
+
+}
+.card{
+height: 600px;
+border-radius: 15px !important;
+background-color: rgba(0, 6, 174, 0.4) !important;
+}
+
+.msg_card_body{
+overflow-y: auto;
+}
+
+.card-header{
+border-radius: 15px 15px 0 0 !important;
+border-bottom: 0 !important;
+}
+
+.chat{
+margin-top: auto;
+margin-bottom: auto;
+margin-left: 10px;
+border-radius: 25px;
+background-color: #82ccdd;
+padding: 10px;
+position: relative;
+}
+
+.msg_card_body{
+ overflow-y: auto;
+
+}
+
+.peque{
+     font-size: 0.5 rem;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: right;
+     position: relative;
+
+ }
+
+h1{
+     text-align: center;
+ }
+
+ 
